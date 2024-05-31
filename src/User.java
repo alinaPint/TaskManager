@@ -16,7 +16,7 @@ public class User {
 	boolean isUserLogged= false;
 	Pattern p = Pattern.compile("^[a-zA-z0-9._-]+[@][a-zA-Z.-_]*\\.[a-zA-Z]{2,4}$");
 	
-	
+	//test
 	// constructor used to sign up a new user 
 	public User() {
 		try {
